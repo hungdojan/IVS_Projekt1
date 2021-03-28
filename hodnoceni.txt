@@ -1,0 +1,13 @@
+Poznámky k úkolům:
+	Black Box Testing:
+		OK
+	White Box Testing:
+		solveEquation: nedostatečně otestováno
+	Test Driven Development:
+		OK
+Detail k bodům:
+	Black Box Testing: 6
+	White Box Testing: 5.5
+	Test Driven Development: 6
+
+Celkovy pocet bodu: 17.5/18
